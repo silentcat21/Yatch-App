@@ -1,2 +1,2 @@
-# Yatch-App
-yacht competition notification app
+# yatch
+ Yatch App
